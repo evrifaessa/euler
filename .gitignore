@@ -6,3 +6,6 @@
 
 # Unignore all dirs
 !*/
+
+### VisualStudio Code ###
+.vscode
