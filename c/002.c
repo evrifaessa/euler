@@ -29,7 +29,7 @@ int main()
         bigger = next;
     }
 
-    printf("%d", sum);
+    printf("The sum of the even-valued terms until %d is %d.\n", max, sum);
 
     return 0;
 }
